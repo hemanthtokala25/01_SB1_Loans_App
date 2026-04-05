@@ -1,1 +1,4 @@
 1) This is my first task
+int a=10;
+int b=20;
+int c=10+20=30;
